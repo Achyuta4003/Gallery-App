@@ -1,9 +1,6 @@
-# Raect Js assignment Board infinity
+# Responsive Gallery App
 
 
-**Problem 3:** 
-
-Build a responsive image gallery with image preview 
 
 ![image](./public/problemImg/reactProblem8.jpeg)
 
@@ -12,9 +9,8 @@ Build a responsive image gallery with image preview
 
 **Objective:** 
 
-1. Make a responsive image gallery website using images from [Pixabay](https://pixabay.com/) or [Pexels](https://www.pexels.com/). 
+1. Responsive image gallery website made by using images from [Pixabay](https://pixabay.com/)
 
-**Note**: You can also use official APIs provided by [Pixabay](https://pixabay.com/api/docs/) for getting a collection of images using API requests. Else download a few images and create a JSON object as image source. 
 
 **Desktop View:** 
 
